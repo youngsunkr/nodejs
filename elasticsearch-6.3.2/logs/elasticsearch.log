@@ -1,0 +1,5 @@
+[2018-08-19T14:13:17,430][INFO ][o.e.x.m.MlDailyMaintenanceService] triggering scheduled [ML] maintenance tasks
+[2018-08-19T14:13:17,446][INFO ][o.e.c.r.a.DiskThresholdMonitor] [gYvnGyh] low disk watermark [85%] exceeded on [gYvnGyhHSfmeKK5yJ8p5xQ][gYvnGyh][D:\002.Sources\Study\nodejs\elasticsearch-6.3.2\data\nodes\0] free: 59.4gb[12.4%], replicas will not be assigned to this node
+[2018-08-19T14:13:18,740][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [gYvnGyh] Deleting expired data
+[2018-08-19T14:13:19,083][INFO ][o.e.x.m.a.TransportDeleteExpiredDataAction] [gYvnGyh] Completed deletion of expired data
+[2018-08-19T14:13:19,189][INFO ][o.e.x.m.MlDailyMaintenanceService] Successfully completed [ML] maintenance tasks

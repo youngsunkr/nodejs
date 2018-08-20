@@ -1,0 +1,14 @@
+[2018-08-17T23:13:33,771][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-08-17T23:13:34,317][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-08-17T23:13:35,150][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-08-17T23:16:10,062][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-08-17T23:16:10,122][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-08-17T23:16:10,122][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-08-17T23:16:10,146][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-08-17T23:24:39,427][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-08-17T23:24:39,439][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-08-17T23:24:39,487][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-08-17T23:24:39,499][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-08-17T23:30:13,833][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-08-17T23:30:14,419][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
+[2018-08-17T23:30:15,767][WARN ][o.e.d.a.a.i.t.p.PutIndexTemplateRequest] Deprecated field [template] used, replaced by [index_patterns]
